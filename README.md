@@ -39,4 +39,8 @@
     <img src="https://img.icons8.com/color/24/000000/swift.png" alt="Swift"/>
     <span style="margin-left: 5px; font-size: 14px;"><strong>Swift</strong></span>
   </div>
+   <div style="display: flex; align-items: center; padding: 5px 10px; border: 1px solid #ccc; border-radius: 5px; background-color: #f5f5f5; cursor: pointer;">
+    <img src="https://img.icons8.com/color/24/000000/spring-logo.png" alt="Spring Boot"/>
+    <span style="margin-left: 5px; font-size: 14px;"><strong>Spring Boot</strong></span>
+  </div>
 </div>
