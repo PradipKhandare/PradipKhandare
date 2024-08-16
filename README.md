@@ -1,7 +1,8 @@
 ## About Me 👋
 
 - "🔭 I’m currently working on Flutter related projects 😉"
-- 🌱 Apart from that, I'm also exploring more over state management things in flutter, I have started exporing providers. I have also started revising spring/springboot stuff.
+- 🌱 Apart from that, I'm also exploring more over state management things in flutter, I have started exploring providers.
+- 🌱 I have also started revising spring/springboot stuff for the backend.
 - 📫 Find me here: [LinkedIn](https://www.linkedin.com/in/pradip-khandare-8b6289206)
 
 ## ⚡ Technologies
