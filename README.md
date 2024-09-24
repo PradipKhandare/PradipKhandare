@@ -1,7 +1,7 @@
 ## About Me 👋
 
 - "🔭 I’m currently working on Flutter related projects 😉"
-- 🌱 I am exploring microservices and kafka things.
+- 🌱 I am exploring microservices,kafka and for UI going through the Angular.
 - 📫 Find me here: [LinkedIn](https://www.linkedin.com/in/pradip-khandare-8b6289206)
 
 ## ⚡ Technologies
