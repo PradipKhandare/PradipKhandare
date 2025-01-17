@@ -1,6 +1,6 @@
 ## About Me 👋
 
-- 🔭 I’m currently working on Flutter-related projects and have started exploring Angular for UI development.
+- 🔭 I’m currently working on Angular as a Front-end Developer.
 - 🌱 I am also diving into microservices and Kafka.
 - 📫 Find me here: [LinkedIn](https://www.linkedin.com/in/pradip-khandare-8b6289206)
 
