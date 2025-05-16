@@ -1,7 +1,7 @@
 ## About Me 👋
 
 - 🔭 I’m currently working on **Angular** as a **Front-end Developer**.
-- 🌱 I am also diving into **microservices** and **Kafka**.
+- 🌱 I am also having working experience on Java, SQL, Springboot.
 - 📫 Find me here: [LinkedIn](https://www.linkedin.com/in/pradip-khandare-8b6289206)
 
 ---
