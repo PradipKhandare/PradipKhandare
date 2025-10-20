@@ -5,9 +5,6 @@
 - 📫 Find me here: [LinkedIn](https://www.linkedin.com/in/pradip-khandare-8b6289206)
 
 ---
-
-## ⚡ Technologies
-
 ## ⚡ Technologies
 
 ### 🧠 Front-End
